@@ -1,5 +1,6 @@
 package hws.hw1;
 
+// This code gives the second minimum in a given sequence of integers.
 
 public class secMin {
 	/*
