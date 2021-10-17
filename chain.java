@@ -1,4 +1,4 @@
-package hws.hw1;
+//This code takes three double values and (starting with these three values) reports ten numbers where each number is the sum of the previous three. 
 
 public class chain {
 	/*
