@@ -1,4 +1,7 @@
-package hws.hw1;
+//This triangle method takes one integer value and 
+	//draws the right triangle where both edges making the right angle are of the given length
+	//reports the area of the triangle
+	
 
 import java.util.Scanner;
 
